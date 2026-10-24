@@ -1,2 +1,3 @@
 4.26.20018
-google-tv-home-cn-keys-20261024-r133.apk
+google-tv-home-cn-keys-20261024-r134.apk
+#134功能比较完善
